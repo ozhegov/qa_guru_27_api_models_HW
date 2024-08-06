@@ -33,5 +33,5 @@
 
 ## <img alt="Telegram" height="25" src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" width="25"/></a><a name="Уведомления в Telegram при помощи бота"></a>Уведомления в Telegram при помощи бота</a>
 <p align="center">  
-<img title="Telegram Notifications" src="images/screenshots/telegram.jpg" width="450">  
+<img title="Telegram Notifications" src="images/screenshots/telegram.png" width="450">  
 </p>
